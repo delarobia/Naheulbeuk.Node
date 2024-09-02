@@ -1,0 +1,19 @@
+{
+  "name": "naheulbeuk.node",
+  "version": "1.0.0",
+  "description": "BackEnd Express API ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/delarobia/Naheulbeuk.Node.git"
+  },
+  "author": "Delarobia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/delarobia/Naheulbeuk.Node/issues"
+  },
+  "homepage": "https://github.com/delarobia/Naheulbeuk.Node#readme"
+}
